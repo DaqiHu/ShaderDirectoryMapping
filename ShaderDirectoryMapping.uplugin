@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ShaderDirectoryMapping",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "tdxh",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"FabURL":"com.epicgames.launcher://ue/Fab/product/58253a64-4d29-4f41-bf8bc9d2ee84d5a0",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EngineVersion" : "5.5.0",
+	"Modules": [
+		{
+			"Name": "ShaderDirectoryMapping",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64", "Mac" ]
+		} 
+	]
+}
