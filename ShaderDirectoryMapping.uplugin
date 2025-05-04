@@ -15,12 +15,12 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"EngineVersion" : "5.5.0",
+	"EnabledByDefault": true,
 	"Modules": [
 		{
 			"Name": "ShaderDirectoryMapping",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
+			"LoadingPhase": "PostConfigInit",
 			"PlatformAllowList": [ "Win64", "Mac" ]
 		} 
 	]
